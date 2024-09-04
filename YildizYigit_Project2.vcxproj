@@ -24,6 +24,7 @@
     <ProjectGuid>{367653ad-277a-4b35-9fd1-657d63de4a00}</ProjectGuid>
     <RootNamespace>YildizYigitProject2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>BreastCancerDiagnosis</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

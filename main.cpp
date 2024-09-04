@@ -1,10 +1,3 @@
-/*---------------------------------------------------
-    Author: Yigit Yildiz
-    Course: INFO3135
-    Professor: Bestan Maaroof
-    Assignment: Project 2 - Breast Cancer Diagnosis
-*///-------------------------------------------------
-
 #include <map>
 #include <string>
 #include <vector>

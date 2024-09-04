@@ -12,4 +12,4 @@ malignant using:
 
 The items are then run by the decision tree, revealing the diagnosis of a patient. The diagnosis of tested patients are written to
 a new results.csv file. The parameters used to build the decision tree is taken from the research included in this project at: 
-Diagnosis-of-Breast-Cancer-using-Decision-Tree-Data-Mining-Technique.pdf
+**Diagnosis-of-Breast-Cancer-using-Decision-Tree-Data-Mining-Technique.pdf**

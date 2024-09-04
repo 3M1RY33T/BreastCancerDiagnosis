@@ -10,5 +10,6 @@ malignant using:
 - A decision tree containing the parameters of each patient's attributes (patient’s tumor size, shape and texture), to run each
   item by.
 
-The items are then run by the decision tree, revealing the diagnosis of a patient. The parameters used to build the decision
-tree is taken from the research included in this project at: Diagnosis-of-Breast-Cancer-using-Decision-Tree-Data-Mining-Technique.pdf
+The items are then run by the decision tree, revealing the diagnosis of a patient. The diagnosis of tested patients are written to
+a new results.csv file. The parameters used to build the decision tree is taken from the research included in this project at: 
+Diagnosis-of-Breast-Cancer-using-Decision-Tree-Data-Mining-Technique.pdf

@@ -11,4 +11,4 @@ malignant using:
   item by.
 
 The items are then run by the decision tree, revealing the diagnosis of a patient. The parameters used to build the decision
-tree is taken from the research included in this project at:Diagnosis-of-Breast-Cancer-using-Decision-Tree-Data-Mining-Technique.pdf
+tree is taken from the research included in this project at: Diagnosis-of-Breast-Cancer-using-Decision-Tree-Data-Mining-Technique.pdf
